@@ -12,7 +12,8 @@
 1. [Introduction to 3D image processing software](#part-1-introduction-to-3d-image-processing-software)
 2. [ImageJ basic operations](#part-2-imagej-basic-operations)
 3. [3D image processing with Dragonfly](#part-3-image-processing-with-dragonfly)
-4. [XCT 3D image processing hands-on session](#part-4-xct-3d-image-processing-hands-on-session)
+4. [Image segmentation](#part-4-image-segmentation)
+5. [Pore analysis](#part-5-pore-analysis)
 
 ---
 ## Resources
@@ -23,6 +24,8 @@
 | [ParaView](https://www.paraview.org/) | An open-source, multi-platform data analysis and visualization application. |
 | [3DSlicer](https://www.slicer.org/) | Open source software platform for medical image informatics, image processing, and three-dimensional visualization. |
 | [Silx](https://www.silx.org/doc/silx/latest/install.html) | Inspect your beamtime RAW data (sinograms). |
+| [Biomedisa](https://biomedisa.info/) | Open-source application for segmenting large 3D image data. |
+
 
 ---
 ## References
@@ -51,6 +54,7 @@ Zenodo link ...
     - Line profile
 - 3D filtering (Process/Filters/Gaussian Blur)
     - Check once again how a line profile looks like
+    - Process/Noise/Despeckle
 - Crop 2D
 - Rescale with factor 4 (Image/Scale)
 - 3D ROI crop (Plugins/Stacks/Crop (3D))
@@ -74,7 +78,39 @@ Zenodo link ...
 - Move dataset
 - 3D stitch
 
-#### Porosity analysis - part 1
+---
+### Part 4: Image segmentation
+- Manual 3D ROI painting
+- Select range; Otsu thresholding
+- A mask is made of ones and zeroes
+- Otsu thresholding in ImageJ
+- Image/Adjust/Threshold
+    - Otsu, Auto -> Apply
+    - Image/Overlay/Add Image
+- Dragnfly Image plugins -> K-means segmentation
+- Dragonfly tutorial: deep learning segmentation
+- [Biomedisa](https://biomedisa.info/)
+- [Segment anything](https://segment-anything.com/)
+
+#### Morphological operations (mask refinement)
+- Keep largest strut (remove unconnected objects)
+    - [Plugins/MorphoLibJ/Binary Images/Keep Largest Region](https://imagej.net/MorphoLibJ)
+    - [Plugins/BoneJ/Purify](https://bonej.org/purify) (alternatively)
+- (Alternatively) Image open (remove unconnected objects)
+    - Process/Binary/Open
+- Logical operations on masks
+    - Process/Image Calculator: AND, OR, ...
+- Morphological operators
+    - Image Erode, Dilate, Open, Close
+    - Plugins/MorphoLibJ/Morphological Filters (3D)
+        - Dilate; Cube (4x4x4)
+    - Plugins/3D/3D Fill Holes
+    - Process/Noise/Despeckle
+    - Edit/Invert
+
+### Part 5: Pore analysis
+
+#### Porosity analysis
 - Median filter
 - Crop
 - Foreground mask
@@ -82,7 +118,7 @@ Zenodo link ...
 - Voids mask
 - Calculate porosity
 
-#### Porosity analysis - part 2
+#### Pore size analysis
 - Connectivity analysis and multi-ROI
 - Label pores by size
 - Remove pores below 4 pixels
@@ -93,96 +129,8 @@ Zenodo link ...
 - Largest interconnected region
 - Thickness map
 
-#### Thresholding
-- [X] Manual 3D ROI selection in 3DSlicer: separate VFA and MBA
-    - File/Add Data
-    - **Segment Editor module**
-        - Add
-        - **Draw**
-        - Fill between slices/Initialize/Allow overlap/Apply
-        - Export as STL
-            - Segmentations button
-            - Export to new labelmap
-    - **Segmentation module**
-        - Save
-- [X] Inspect it in ImageJ
-    - A mask is made of ones and zeroes
-    - Image/Overlay/Add Image
-- [X] Automatic thresholding in ImageJ: bone_tissue mask
-    - Load (Virtual stack off)
-    - Image/Adjust/Threshold
-        - Otsu, Auto -> Apply
-- [X] Remove noise speckles
-    - Process/Noise/Despeckle
 
-#### Perform checks!!
-We check that the masking operation was fine, that we haven't introduced artefacts (e.g. wrongly removed bone areas).
-- [X] Image/Color/Merge Channels
-    - `C2 (green): MBA_tissue`
-    - `C4 (gray): cropped_rescale_025`
-![Overlay](figures/Composite.png)
 
-#### Morphological operations (mask refinement)
-- [X] Keep largest strut (remove unconnected objects)
-    - [Plugins/MorphoLibJ/Binary Images/Keep Largest Region](https://imagej.net/MorphoLibJ)
-    - [Plugins/BoneJ/Purify](https://bonej.org/purify) (alternatively)
-    - Image/Rename (bone_tissue)
-    - File/Save As
-- [X] (Alternatively) Image open (remove unconnected objects)
-    - Process/Binary/Open
-- [X] Logical operations on masks: VFA_tissue; MBA_tissue
-    - Load MBA-VFA separation
-    - Process/Binary/Make binary
-    - Process/Image Calculator: `bone_tissue AND VFA_separation`
-    - Plugins/MorphoLibJ/Binary Images/Keep Largest Region    
-    - Image/Rename (VFA_tissue)
-    - File/Save As
-    - Process/Image Calculator: `bone_tissue - VFA_tissue`
-    - Image/Rename (MBA_tissue)
-    - File/Save As
-#### Towards Bone Volume Fraction (BV/TV)!!
-- [X] Image Erode, Dilate, Open, Close: MBA_total and VFA_total
-    - Plugins/MorphoLibJ/Morphological Filters (3D)
-        - Dilate; Cube (4x4x4)
-    - Plugins/MorphoLibJ/Extend Image Borders (L1, R1, T0, B1, F1, B1; White)
-    - Plugins/3D/3D Fill Holes
-    - Plugins/Stacks/Crop 3D [1:649, 0:648, 2:350]
-    - Plugins/MorphoLibJ/Binary Images/Keep Largest Region    
-    - Image/Rename (MBA_total)
-    - File/Save As
-    - Plugins/MorphoLibJ/Morphological Filters (3D)
-        - Erosion; Cube (4x4x4)
-- [X] MBA_pores and VFA_pores
-    - Edit/Invert `bone_tissue`
-    - Process/Image Calculator: `bone_tissue AND MBA_total_eroded`
-    - Process/Noise/Despeckle (necessary?)
-    - Image/Rename (MBA_pores)
-    - File/Save As
+
+
     
-#### Quantitative analysis (ImageJ-BoneJ)
-- [X] BV/TV
-    - Load MBA_tissue, MBA_total, VFA_tissue, VFA_total
-    - Plugins/BoneJ/Fraction/Volume Fraction
-    - Repeat for MBA_tissue, MBA_total, VFA_tissue, VFA_total; we are only interested in TV
-    - `BVTV_MBA = TV_MBA_tissue / TV_MBA_total`
-    - `BVTV_VFA = TV_VFA_tissue / TV_VFA_total` 
-- [X] Tissue density
-    - Process/Image Calculator: `MBA_tissue AND cropped_rescale_025`
-    - Histogram `(shortcut: "h")`
-    - Repeat for VFA
-- [ ] Connectivity
-- [ ] Thickness
-    - Pores
-    - Trabeculae
-- [ ] Skeleton Analyzer
-![Skeleton Analyzer](figures/Skeleton.png)
-- [ ] Particle Analyzer
-
-#### Computed Tomography to Finite Elements
-[CT2FE](https://github.com/gianthk/CT2FE) - From 3D CT datasets to voxel-Finite Element (FE) models for the prediction of bone tissue stiffness.
-
-#### 3D Visualization (Paraview)
-- [X] Slice
-- [X] Threshold
-- [X] Clip
-![Paraview visualization](figures/MBA-VFA_pores_Paraview.png)
