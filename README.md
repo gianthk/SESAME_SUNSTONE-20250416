@@ -26,15 +26,20 @@
 | [Silx](https://www.silx.org/doc/silx/latest/install.html) | Inspect your beamtime RAW data (sinograms). |
 | [Biomedisa](https://biomedisa.info/) | Open-source application for segmenting large 3D image data. |
 
-
 ---
 ## References
-See the file ...
+See [bibliography file](cultural_heritage.bib).
 
 ---
 ## Open dataset
-Zenodo link ...
+### Synchrotron X-ray Computed Tomography images from the ID10-BEATS beamline of SESAME
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15182529.svg)](https://doi.org/10.5281/zenodo.15182529)
 
+Contents:
+- `wasp_recon_small.zip` - SXCT reconstruction of scan of a wasp performed at beamline ID10-BEATS of SESAME
+- `figurine_e1_macro-20241001T114706_crop_align.zip` - SXCT reconstruction of scan of historical terracotta at beamline ID10-BEATS of SESAME
+
+---
 ### Part 1: Introduction to 3D image processing software
 - Outline of this lecture
 - [Software resources](resources)
