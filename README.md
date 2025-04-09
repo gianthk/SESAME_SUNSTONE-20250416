@@ -28,7 +28,7 @@
 
 ---
 ## References
-See [bibliography file](cultural_heritage.bib).
+For a list of works on the application of synchrotron Computed Tomography in cultural herigage science see the [bibliography file](cultural_heritage.bib).
 
 ---
 ## Open dataset
