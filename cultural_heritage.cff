@@ -1,0 +1,1494 @@
+# This CITATION.cff reference content was generated from Zotero.
+references:
+  - title: >-
+      Radiation studies of items of cultural heritage
+    abstract: |
+      When we see a piece of art or an archaeological object for the first time, a painting, a jewel, a sculpture or merely a simple piece of pottery on display in a museum or in an exhibition, we might be fascinated by its beauty or by its simplicity. However, many questions often arise in connection with such items on display, about its origin, its context, its provenance, its authenticity. Finding complete answers is a fully interdisciplinary task between art, humanities and natural sciences. With respect to the contribution from natural science, it often needs the application of just the best methods and techniques out of a multitude of possible options. Starting from a simple visual inspection with or without a magnifying glass, the techniques reach up to highly sophisticated and advanced methods developed in atomic physics, nuclear physics and chemistry, such as available at large scale facilities, and even biophysics. In the following, a condensed review is presented on recent research on cultural heritage objects using various radiation techniques.
+    type: journalArticle
+    database: ScienceDirect
+    date-accessed: 2023-09-27T08:54:33Z
+    editors-series: The 15th International Symposium on Radiation Physics (ISRP15), 6 - 10 December, 2021,Sunway University, Malaysia
+    issn: 0969-806X
+    journal: Radiation Physics and Chemistry
+    pages: 110323
+    volume: 200
+    url: https://www.sciencedirect.com/science/article/pii/S0969806X22003668
+    keywords: 
+      - Non-destructive or minimal invasive archaeometry
+      - X-ray absorption tomography
+      - X-ray fluorescence
+    authors: 
+      - family-names: Mahnke
+        given-names: Heinz-Eberhard
+    editors: 
+      - family-names: Mahnke
+        given-names: Heinz-Eberhard
+    recipients: 
+      - family-names: Mahnke
+        given-names: Heinz-Eberhard
+    translators: 
+      - family-names: Mahnke
+        given-names: Heinz-Eberhard
+    date-published: 2022-11-01
+    identifiers: 
+      - type: doi
+        value: 10.1016/j.radphyschem.2022.110323
+  - title: >-
+      Archaeological Science in Practice
+    abstract: |
+      Archaeological science is a canopy term referring to applications of techniques from the full spectra of natural and earth sciences to archaeological materials for the sake of improved understanding of artifacts and ecofacts in their wider social, economic, political, and environmental contexts. The discipline has expanded parallel to mounting amounts of advancements in technology and instrumentation over the last 30 years and it has benefited from archaeological theory-driven approaches. This entry discusses integrated research approaches of archaeological science and the importance of collaboration between excavation and laboratory teams. It exemplifies how pre- and post-processing of archaeomaterials start during excavation and how archaeologists can benefit the most from the archaeological sciences while excavating. The future of archaeology and archaeological science lies in interdisciplinarily trained scholars, equal opportunities for funding, and theory-driven research agendas.
+    type: bookSection
+    database: ScienceDirect
+    date-accessed: 2023-09-27T08:53:14Z
+    isbn: 978-0-443-15785-1
+    publisher: Elsevier
+    url: https://www.sciencedirect.com/science/article/pii/B9780323907996001622
+    keywords: 
+      - Archaeomaterials
+      - Complexity in archaeological contexts
+      - Interdisciplinarily trained scholars
+      - Interdisciplinary research agendas
+      - Pre- and post-processes in the excavation
+      - Science practices during excavation
+    authors: 
+      - family-names: Dardeniz
+        given-names: Gonca
+    editors: 
+      - family-names: Dardeniz
+        given-names: Gonca
+    recipients: 
+      - family-names: Dardeniz
+        given-names: Gonca
+    translators: 
+      - family-names: Dardeniz
+        given-names: Gonca
+    date-published: 2023-01-01
+    identifiers: 
+      - type: doi
+        value: 10.1016/B978-0-323-90799-6.00162-2
+  - title: >-
+      Potential of synchrotron X-ray diffraction computed tomography (XRDCT) for a 3D non-destructive and/or non-invasive characterisation of cultural heritage geomaterials (CHG)
+    abstract: |
+      The present work describes the high potential of the recently developed synchrotron X-ray diffraction computed tomography (XRDCT) for 3D mapping of crystalline and amorphous phases in Geomaterials of Cultural Heritage (CHG). The paper critically discusses the promising results and limitations of XRDCT in Cultural Heritage applications. XRDCT has been applied herein to diverse CHG materials, spanning from archaeological ceramics, and stone conservation treatments to meteorites, at a microscale. Although these materials are very complex systems from a chemical, mineralogical and microstructural point of view, this innovative technique proves effective capability to access the real spatial distribution and semi-quantification of crystallographic phases within materials in a totally non-destructive and/or non-invasive way.
+    type: journalArticle
+    database: ScienceDirect
+    date-accessed: 2024-06-25T10:42:39Z
+    issn: 1296-2074
+    journal: Journal of Cultural Heritage
+    pages: 28-37
+    volume: 68
+    url: https://www.sciencedirect.com/science/article/pii/S1296207424000876
+    keywords: 
+      - Archaeological ceramics
+      - Geomaterials of cultural heritage
+      - Inorganic-mineral conservation treatment
+      - Meteorites
+      - Stone materials of built Heritage
+      - Synchrotron radiation X-ray diffraction computed tomography (XRDCT)
+    authors: 
+      - family-names: Possenti
+        given-names: Elena
+      - family-names: Catrambone
+        given-names: Maria
+      - family-names: Colombo
+        given-names: Chiara
+      - family-names: Cantaluppi
+        given-names: Marco
+      - family-names: Merlini
+        given-names: Marco
+      - family-names: Vaughan
+        given-names: Gavin B. M.
+      - family-names: di Michiel
+        given-names: Marco
+      - family-names: Marinoni
+        given-names: Nicoletta
+    editors: 
+      - family-names: Possenti
+        given-names: Elena
+      - family-names: Catrambone
+        given-names: Maria
+      - family-names: Colombo
+        given-names: Chiara
+      - family-names: Cantaluppi
+        given-names: Marco
+      - family-names: Merlini
+        given-names: Marco
+      - family-names: Vaughan
+        given-names: Gavin B. M.
+      - family-names: di Michiel
+        given-names: Marco
+      - family-names: Marinoni
+        given-names: Nicoletta
+    recipients: 
+      - family-names: Possenti
+        given-names: Elena
+      - family-names: Catrambone
+        given-names: Maria
+      - family-names: Colombo
+        given-names: Chiara
+      - family-names: Cantaluppi
+        given-names: Marco
+      - family-names: Merlini
+        given-names: Marco
+      - family-names: Vaughan
+        given-names: Gavin B. M.
+      - family-names: di Michiel
+        given-names: Marco
+      - family-names: Marinoni
+        given-names: Nicoletta
+    translators: 
+      - family-names: Possenti
+        given-names: Elena
+      - family-names: Catrambone
+        given-names: Maria
+      - family-names: Colombo
+        given-names: Chiara
+      - family-names: Cantaluppi
+        given-names: Marco
+      - family-names: Merlini
+        given-names: Marco
+      - family-names: Vaughan
+        given-names: Gavin B. M.
+      - family-names: di Michiel
+        given-names: Marco
+      - family-names: Marinoni
+        given-names: Nicoletta
+    date-published: 2024-07-01
+    identifiers: 
+      - type: doi
+        value: 10.1016/j.culher.2024.04.006
+  - title: >-
+      Application of X-ray Computed Tomography to Cultural Heritage diagnostics
+    abstract: |
+      Physical methods of diagnosis are more and more frequently applied in the field of Cultural Heritage either for scientific investigations or for restoration and conservation purposes. X-ray Computed Tomography (CT) is one of the most powerful non-destructive testing techniques for the full-volume inspection of an object, as it is able to give morphological and physical information on the inner structure of the investigated sample. The great variety of size and composition that characterizes archaeological findings and art objects requires the development of tomographic systems specifically designed for Cultural Heritage analysis. In the last few years our research group has developed several acquisition systems for Digital Radiography and X-ray CT. We are able to perform high resolution micro-tomography of small objects (voxel size of few microns) as well as CT of large objects (up to 2 m of size). In this paper we will mainly focus the attention on the results of the investigation recently performed on two Japanese wooden statues with our CT system for large works of art. The CT analysis was carried out on site at the Conservation and Restoration Center “La Venaria Reale”, where the statues have been restored before their exposition at the Oriental Art Museum in Turin.
+    type: journalArticle
+    database: Springer Link
+    date-accessed: 2023-04-27T06:21:27Z
+    issn: 1432-0630
+    issue: 3
+    journal: Appl. Phys. A
+    languages: 
+      - en
+    pages: 653-661
+    volume: 100
+    url: https://doi.org/10.1007/s00339-010-5648-6
+    keywords: 
+      - Compute Tomography Analysis
+      - Compute Tomography System
+      - Cultural Heritage
+      - Digital Radiography
+      - Xvii Century
+    authors: 
+      - family-names: Morigi
+        given-names: M. P.
+      - family-names: Casali
+        given-names: F.
+      - family-names: Bettuzzi
+        given-names: M.
+      - family-names: Brancaccio
+        given-names: R.
+      - family-names: D’Errico
+        given-names: V.
+    editors: 
+      - family-names: Morigi
+        given-names: M. P.
+      - family-names: Casali
+        given-names: F.
+      - family-names: Bettuzzi
+        given-names: M.
+      - family-names: Brancaccio
+        given-names: R.
+      - family-names: D’Errico
+        given-names: V.
+    recipients: 
+      - family-names: Morigi
+        given-names: M. P.
+      - family-names: Casali
+        given-names: F.
+      - family-names: Bettuzzi
+        given-names: M.
+      - family-names: Brancaccio
+        given-names: R.
+      - family-names: D’Errico
+        given-names: V.
+    translators: 
+      - family-names: Morigi
+        given-names: M. P.
+      - family-names: Casali
+        given-names: F.
+      - family-names: Bettuzzi
+        given-names: M.
+      - family-names: Brancaccio
+        given-names: R.
+      - family-names: D’Errico
+        given-names: V.
+    date-published: 2010-09-01
+    identifiers: 
+      - type: doi
+        value: 10.1007/s00339-010-5648-6
+  - title: >-
+      Synchrotron Radiation in Art, Archaelogy and Cultural Heritage
+    abstract: |
+      Scientific investigations aimed to archaeometric analyses, characterization and conservation of archaeological and artistic finds are in general based on a strong interdisciplinary approach, which implies the collaboration among scientists and archaeologists expert in many different fields. In particular, knowledge transfer among research groups is required by the number of different conventional and advanced techniques which can be applied to ancient materials. One of the main requirements imposed by the archaeologists in the studies of ancient and precious materials is that the selected techniques must be non-destructive (or at most micro-destructive). In this scenario, synchrotron radiation-based methods can play a central role, being specifically suitable for micro-non-destructive analyses. This chapter is intended to show how synchrotron radiation-based experiments, employing highly brilliant and collimated micro-beams of X-rays, can be exploited in diffractometric, spectroscopic and imaging investigations of archaeological and artistic objects, obtaining results with unprecedented space and energy resolution.
+    type: bookSection
+    database: Springer Link
+    date-accessed: 2023-04-27T06:21:07Z
+    isbn: 978-3-642-55315-8
+    languages: 
+      - en
+    pages: 677-695
+    publisher: Springer
+    url: https://doi.org/10.1007/978-3-642-55315-8_26
+    keywords: 
+      - Archaeometry
+      - Cultural heritage
+    authors: 
+      - family-names: Quartieri
+        given-names: Simona
+      - family-names: Mobilio
+        given-names: Settimio
+      - family-names: Boscherini
+        given-names: Federico
+      - family-names: Meneghini
+        given-names: Carlo
+    editors: 
+      - family-names: Quartieri
+        given-names: Simona
+      - family-names: Mobilio
+        given-names: Settimio
+      - family-names: Boscherini
+        given-names: Federico
+      - family-names: Meneghini
+        given-names: Carlo
+    recipients: 
+      - family-names: Quartieri
+        given-names: Simona
+      - family-names: Mobilio
+        given-names: Settimio
+      - family-names: Boscherini
+        given-names: Federico
+      - family-names: Meneghini
+        given-names: Carlo
+    translators: 
+      - family-names: Quartieri
+        given-names: Simona
+      - family-names: Mobilio
+        given-names: Settimio
+      - family-names: Boscherini
+        given-names: Federico
+      - family-names: Meneghini
+        given-names: Carlo
+    date-published: 2015
+    identifiers: 
+      - type: doi
+        value: 10.1007/978-3-642-55315-8_26
+  - title: >-
+      X-RAY computed tomography of a late period falcon bronze coffin
+    abstract: |
+      X-ray Computed Tomography (CT) has a significant role as investigation tool not only in medical and industrial applications but also in cultural heritage and anthropologic studies. It is a non-destructive examination test (NDT) to study different types of archaeological objects. Ordinary X-ray radiography is limited and gives 2D superficial images. On other hand, high-resolution X-ray CT imaging reveals different more complex 2D and 3D images. 3D CT imaging has gained wide acceptances for investigations that before could not be obtained by ordinary X-ray radiography only. Archaeological applications of CT scan have started to investigate the ancient Egyptian mummies which were elaborately wrapped and could not be investigated otherwise. X-ray CT investigation technique is not only exclusive for study the mummies but also for examination of different artifacts such as clay tablets, scrolls, pottery, wood, ceramics, stones, bronze statues, swords and other metal objects. This article focus on the use of Multi-Detectors Computed Tomography (MDCT) to study an ancient Egyptian falcon hollow-cast bronze coffin of the god Horus dated to Late period, 713-332 BC - Dynasties XXV-XXXI. The statue was used as a coffin for a votive falcon mummy from Cairo Egyptian Museum. The examination illustrates that the coffin was casted in one-piece hollow-cast without use of thermal or mechanical joints. 2D and 3D CT images provide overall geometry of the coffin and reveal all casting process components. 2D CT images give metric measurements of wall thicknesses throughout the coffin, which ranges 2.6–5.9 mm throughout the casting. 3D CT images reveal usage of two core materials and six chaplets to keep the balance of inner core inside the mold during manufacture the coffin. The attenuation values measurements in Hounsfield units (HUs) and standard deviation (SD) were used to estimate the types of two different core materials presence inside the coffin as a clay and stone material. The cross-section of the used chaplets is rectangle and there is a high probability that it is made of iron. There is suggestion that the air vent is located in the place of aperture behind the falcon statue head.
+    type: journalArticle
+    database: ScienceDirect
+    date-accessed: 2023-04-27T06:18:06Z
+    issn: 0969-806X
+    journal: Radiation Physics and Chemistry
+    languages: 
+      - en
+    pages: 108475
+    volume: 166
+    url: https://www.sciencedirect.com/science/article/pii/S0969806X1930204X
+    keywords: 
+      - Standard deviation
+      - Attenuation values
+      - Bronze coffin
+      - Chaplets
+      - Core material
+      - Direct lost-wax
+      - X-ray computed tomography (CT)
+    authors: 
+      - family-names: Maher
+        given-names: Manal A.
+    editors: 
+      - family-names: Maher
+        given-names: Manal A.
+    recipients: 
+      - family-names: Maher
+        given-names: Manal A.
+    translators: 
+      - family-names: Maher
+        given-names: Manal A.
+    date-published: 2020-01-01
+    identifiers: 
+      - type: doi
+        value: 10.1016/j.radphyschem.2019.108475
+  - title: >-
+      Unlocking history through automated virtual unfolding of sealed documents imaged by X-ray microtomography
+    abstract: |
+      Here, the authors present a fully automatic computational approach for reconstructing and virtually unfolding volumetric scans of locked letters with complex internal folding, producing legible images of the letter’s contents and crease pattern while preserving letterlocking evidence.
+    type: journalArticle
+    license: 2021 The Author(s)
+    copyright: 2021 The Author(s)
+    database: www.nature.com
+    date-accessed: 2021-03-03T06:56:28Z
+    issn: 2041-1723
+    issue: 1
+    journal: Nat Commun
+    languages: 
+      - en
+    pages: 1-10
+    volume: 12
+    url: https://www.nature.com/articles/s41467-021-21326-w
+    authors: 
+      - family-names: Dambrogio
+        given-names: Jana
+      - family-names: Ghassaei
+        given-names: Amanda
+      - family-names: Smith
+        given-names: Daniel Starza
+      - family-names: Jackson
+        given-names: Holly
+      - family-names: Demaine
+        given-names: Martin L.
+      - family-names: Davis
+        given-names: Graham
+      - family-names: Mills
+        given-names: David
+      - family-names: Ahrendt
+        given-names: Rebekah
+      - family-names: Akkerman
+        given-names: Nadine
+      - family-names: Linden
+        given-names: David van der
+      - family-names: Demaine
+        given-names: Erik D.
+    editors: 
+      - family-names: Dambrogio
+        given-names: Jana
+      - family-names: Ghassaei
+        given-names: Amanda
+      - family-names: Smith
+        given-names: Daniel Starza
+      - family-names: Jackson
+        given-names: Holly
+      - family-names: Demaine
+        given-names: Martin L.
+      - family-names: Davis
+        given-names: Graham
+      - family-names: Mills
+        given-names: David
+      - family-names: Ahrendt
+        given-names: Rebekah
+      - family-names: Akkerman
+        given-names: Nadine
+      - family-names: Linden
+        given-names: David van der
+      - family-names: Demaine
+        given-names: Erik D.
+    recipients: 
+      - family-names: Dambrogio
+        given-names: Jana
+      - family-names: Ghassaei
+        given-names: Amanda
+      - family-names: Smith
+        given-names: Daniel Starza
+      - family-names: Jackson
+        given-names: Holly
+      - family-names: Demaine
+        given-names: Martin L.
+      - family-names: Davis
+        given-names: Graham
+      - family-names: Mills
+        given-names: David
+      - family-names: Ahrendt
+        given-names: Rebekah
+      - family-names: Akkerman
+        given-names: Nadine
+      - family-names: Linden
+        given-names: David van der
+      - family-names: Demaine
+        given-names: Erik D.
+    translators: 
+      - family-names: Dambrogio
+        given-names: Jana
+      - family-names: Ghassaei
+        given-names: Amanda
+      - family-names: Smith
+        given-names: Daniel Starza
+      - family-names: Jackson
+        given-names: Holly
+      - family-names: Demaine
+        given-names: Martin L.
+      - family-names: Davis
+        given-names: Graham
+      - family-names: Mills
+        given-names: David
+      - family-names: Ahrendt
+        given-names: Rebekah
+      - family-names: Akkerman
+        given-names: Nadine
+      - family-names: Linden
+        given-names: David van der
+      - family-names: Demaine
+        given-names: Erik D.
+    date-published: 2021-03-02
+    identifiers: 
+      - type: doi
+        value: 10.1038/s41467-021-21326-w
+  - title: >-
+      Digital imaging in cultural heritage neutron tomography imaging of restored original samples from Austrian cultural heritage
+    abstract: |
+      The protection and conservation of our cultural heritage which is made of natural stone is of cultural and economic value. The interaction of natural stone-made surfaces with different chemical and physical, climatic controlled, weathering processes, leads to a rapidly increasing deterioration of these monuments. Several different methods are employed in order to conserve and restore these important structures. An effective technique of conservation and restoration is the use of chemical consolidants. One of the main tasks of stone consolidants is a deep penetration into the weakened fabric and the reconstruction of the grain binding strength. The three-dimensional distribution of the consolidants in weathered rock is important for the evaluation of this conservation procedure. Neutron Imaging due to the specific sensitivity of neutrons for hydrogen could be a very useful tool for non-destructive investigation of the chemical inside the restored sample. The method of neutron tomography gives a three dimensional (3D) mapping of the conservation agent in the sample. This paper presents the application of the method of neutron tomography for assessing the consolidation of valuable original samples from historical buildings and monuments in Austria.
+    type: conferencePaper
+    collection-title: 2015 9th International Symposium on Image and Signal Processing and Analysis (ISPA)
+    conference: 2015 9th International Symposium on Image and Signal Processing and Analysis (ISPA)
+    database: IEEE Xplore
+    pages: 108-113
+    keywords: 
+      - Surface reconstruction
+      - tomography
+      - Tomography
+      - Image reconstruction
+      - 3D mapping
+      - Austrian cultural heritage
+      - buildings (structures)
+      - chemical consolidants
+      - chemical process
+      - Chemicals
+      - climatic controlled process
+      - conservation agent
+      - conservation procedure evaluation
+      - cultural heritage
+      - cultural heritage conservation
+      - cultural heritage protection
+      - cultural value
+      - digital imaging
+      - economic value
+      - erosion
+      - grain binding strength reconstruction
+      - historical buildings
+      - historical monuments
+      - history
+      - Image restoration
+      - materials science computing
+      - monument deterioration
+      - natural stone-made surfaces
+      - Neutron imaging
+      - neutron radiography
+      - neutron sensitivity
+      - neutron tomography
+      - neutron tomography imaging
+      - Neutrons
+      - nondestructive
+      - nondestructive method
+      - physical process
+      - restored original monuments
+      - rocks
+      - stone consolidants
+      - structure conservation
+      - structure restoration
+      - three-dimensional consolidant distribution
+      - three-dimensional mapping
+      - weakened fabric
+      - weathered rock
+      - weathering process
+    authors: 
+      - family-names: Hameed
+        given-names: Fareeha
+      - family-names: Zawisky
+        given-names: Michael
+      - family-names: Rohatsch
+        given-names: Andreas
+    editors: 
+      - family-names: Hameed
+        given-names: Fareeha
+      - family-names: Zawisky
+        given-names: Michael
+      - family-names: Rohatsch
+        given-names: Andreas
+    recipients: 
+      - family-names: Hameed
+        given-names: Fareeha
+      - family-names: Zawisky
+        given-names: Michael
+      - family-names: Rohatsch
+        given-names: Andreas
+    translators: 
+      - family-names: Hameed
+        given-names: Fareeha
+      - family-names: Zawisky
+        given-names: Michael
+      - family-names: Rohatsch
+        given-names: Andreas
+    date-published: 2015-09
+    identifiers: 
+      - type: doi
+        value: 10.1109/ISPA.2015.7306042
+  - title: >-
+      The Investigation of the Medieval Russian Bronze Reliquary Cross Pendant Using a Complex of Nondestructive Methods
+    abstract: |
+      The medieval Russian bronze reliquary cross pendant was investigated using a complex of nondestructive methods in order to determine the degree its integrity and identify the material filling its internal cavity. The metal composition is established. It is found that the cross material was subjected to spatially inhomogeneous corrosion and that the cavity is filled with soil. It is shown that application of complementary nondestructive methods provides the most reliable information on historical heritage objects.
+    type: journalArticle
+    database: Springer Link
+    date-accessed: 2020-02-03T11:23:22Z
+    issn: 1562-689X
+    issue: 5
+    journal: Crystallogr. Rep.
+    languages: 
+      - en
+    pages: 841-846
+    volume: 64
+    url: https://doi.org/10.1134/S1063774519050110
+    authors: 
+      - family-names: Kovalenko
+        given-names: E. S.
+      - family-names: Podurets
+        given-names: K. M.
+      - family-names: Greshnikov
+        given-names: E. A.
+      - family-names: Zaytseva
+        given-names: I. Y.
+      - family-names: Agafonov
+        given-names: S. S.
+      - family-names: Somenkov
+        given-names: V. A.
+      - family-names: Kolobylina
+        given-names: N. N.
+      - family-names: Kaloyan
+        given-names: A. A.
+      - family-names: Govor
+        given-names: L. I.
+      - family-names: Kurkin
+        given-names: V. A.
+      - family-names: Yatsishina
+        given-names: Y. B.
+    editors: 
+      - family-names: Kovalenko
+        given-names: E. S.
+      - family-names: Podurets
+        given-names: K. M.
+      - family-names: Greshnikov
+        given-names: E. A.
+      - family-names: Zaytseva
+        given-names: I. Y.
+      - family-names: Agafonov
+        given-names: S. S.
+      - family-names: Somenkov
+        given-names: V. A.
+      - family-names: Kolobylina
+        given-names: N. N.
+      - family-names: Kaloyan
+        given-names: A. A.
+      - family-names: Govor
+        given-names: L. I.
+      - family-names: Kurkin
+        given-names: V. A.
+      - family-names: Yatsishina
+        given-names: Y. B.
+    recipients: 
+      - family-names: Kovalenko
+        given-names: E. S.
+      - family-names: Podurets
+        given-names: K. M.
+      - family-names: Greshnikov
+        given-names: E. A.
+      - family-names: Zaytseva
+        given-names: I. Y.
+      - family-names: Agafonov
+        given-names: S. S.
+      - family-names: Somenkov
+        given-names: V. A.
+      - family-names: Kolobylina
+        given-names: N. N.
+      - family-names: Kaloyan
+        given-names: A. A.
+      - family-names: Govor
+        given-names: L. I.
+      - family-names: Kurkin
+        given-names: V. A.
+      - family-names: Yatsishina
+        given-names: Y. B.
+    translators: 
+      - family-names: Kovalenko
+        given-names: E. S.
+      - family-names: Podurets
+        given-names: K. M.
+      - family-names: Greshnikov
+        given-names: E. A.
+      - family-names: Zaytseva
+        given-names: I. Y.
+      - family-names: Agafonov
+        given-names: S. S.
+      - family-names: Somenkov
+        given-names: V. A.
+      - family-names: Kolobylina
+        given-names: N. N.
+      - family-names: Kaloyan
+        given-names: A. A.
+      - family-names: Govor
+        given-names: L. I.
+      - family-names: Kurkin
+        given-names: V. A.
+      - family-names: Yatsishina
+        given-names: Y. B.
+    date-published: 2019-09-01
+    identifiers: 
+      - type: doi
+        value: 10.1134/S1063774519050110
+  - title: >-
+      Characterization of cosmetic sticks at Xiaohe Cemetery in early Bronze Age Xinjiang, China
+    abstract: |
+      Cosmetics have been studied for a long time in the society and culture research and its consumption is regarded as a cultural symbol of human society. This paper focuses on the analysis of the red cosmetic sticks, found in Xiaohe Cemetery (1980–1450BC), Xinjiang, China. The structure of the red cosmetic sticks was disclosed by SR-μCT scanning (Synchrotron Radiation Micro-computed Tomography), while the chemical components were characterized by FTIR (Fourier Transform Infrared Spectroscopy), Raman Spectroscopy and Proteomics. The results suggested that the cosmetic sticks were made from the cattle heart and covered with a layer of hematite powders as the pigment. Given the numerous red painted relics in Xiaohe Cemetery, this kind of cosmetic sticks might be used as a primitive form of crayon for makeup and painting. The usage of cattle hearts as cosmetic sticks is firstly reported up to our knowledge, which not only reveals the varied utilizations of cattle in Xiaohe Cemetery but also shows the distinctive religious function. Furthermore, these red cosmetic sticks were usually buried with women, implying that the woman may be the painter and play a special role in religious activities.
+    type: journalArticle
+    license: 2016 The Author(s)
+    copyright: 2016 The Author(s)
+    database: www.nature.com
+    date-accessed: 2020-02-03T08:48:19Z
+    issn: 2045-2322
+    issue: 1
+    journal: Sci Rep
+    languages: 
+      - en
+    pages: 1-9
+    volume: 6
+    url: https://www.nature.com/articles/srep18939
+    authors: 
+      - family-names: Mai
+        given-names: Huijuan
+      - family-names: Yang
+        given-names: Yimin
+      - family-names: Abuduresule
+        given-names: Idelisi
+      - family-names: Li
+        given-names: Wenying
+      - family-names: Hu
+        given-names: Xingjun
+      - family-names: Wang
+        given-names: Changsui
+    editors: 
+      - family-names: Mai
+        given-names: Huijuan
+      - family-names: Yang
+        given-names: Yimin
+      - family-names: Abuduresule
+        given-names: Idelisi
+      - family-names: Li
+        given-names: Wenying
+      - family-names: Hu
+        given-names: Xingjun
+      - family-names: Wang
+        given-names: Changsui
+    recipients: 
+      - family-names: Mai
+        given-names: Huijuan
+      - family-names: Yang
+        given-names: Yimin
+      - family-names: Abuduresule
+        given-names: Idelisi
+      - family-names: Li
+        given-names: Wenying
+      - family-names: Hu
+        given-names: Xingjun
+      - family-names: Wang
+        given-names: Changsui
+    translators: 
+      - family-names: Mai
+        given-names: Huijuan
+      - family-names: Yang
+        given-names: Yimin
+      - family-names: Abuduresule
+        given-names: Idelisi
+      - family-names: Li
+        given-names: Wenying
+      - family-names: Hu
+        given-names: Xingjun
+      - family-names: Wang
+        given-names: Changsui
+    date-published: 2016-01-28
+    identifiers: 
+      - type: doi
+        value: 10.1038/srep18939
+  - title: >-
+      Synchrotron Radiation Microtomography: A Tool for the Non-Invasive Structural Analysis of Historical Musical Instruments
+    type: journalArticle
+    database: Taylor and Francis+NEJM
+    date-accessed: 2020-02-02T13:30:23Z
+    issn: 0894-0886
+    issue: 6
+    pages: 17-21
+    volume: 32
+    url: https://doi.org/10.1080/08940886.2019.1680210
+    authors: 
+      - family-names: Dreossi
+        given-names: Diego
+      - family-names: Sodini
+        given-names: Nicola
+      - family-names: Zanini
+        given-names: Franco
+    editors: 
+      - family-names: Dreossi
+        given-names: Diego
+      - family-names: Sodini
+        given-names: Nicola
+      - family-names: Zanini
+        given-names: Franco
+    recipients: 
+      - family-names: Dreossi
+        given-names: Diego
+      - family-names: Sodini
+        given-names: Nicola
+      - family-names: Zanini
+        given-names: Franco
+    translators: 
+      - family-names: Dreossi
+        given-names: Diego
+      - family-names: Sodini
+        given-names: Nicola
+      - family-names: Zanini
+        given-names: Franco
+    date-published: 2019-11-02
+    identifiers: 
+      - type: doi
+        value: 10.1080/08940886.2019.1680210
+  - title: >-
+      Synchrotron radiation micro-computed tomography for the investigation of finishing treatments in historical bowed string instruments: Issues and perspectives
+    abstract: |
+      .Coating systems in historical bowed string instruments are often multi-layered structures, where several inorganic and organic materials are variously combined. The methods to characterise such complex systems normally require samples to be detached from the artwork, whereas Synchrotron Radiation micro-Computed Tomography (SR-micro-CT) may reveal --through a non-invasive approach-- procedures and materials employed by the ancient violin makers. Since the application of SR-micro-CT for the investigation of the finishing layers in historical bowed string instruments is still unexplored, the experimental settings were optimized for the detection of the main features expected in the finishing layers of a historical instrument. In this work, two sets of mock-ups mimicking the finishing layers of historical instruments and a large fragment removed from a damaged cello by Andrea Guarneri were scanned. By considering SR-micro-CT data, and data obtained by previous micro-invasive analyses, the merits of reconstructed volumes and virtual slicing in investigating the layered structures have been highlighted and discussed. The developed procedures enabled the detection of the main morphological features of the overlapping layers, producing a valuable, non-invasive insight into the structure of the coating systems.
+    type: journalArticle
+    database: Springer Link
+    date-accessed: 2020-02-02T13:28:19Z
+    issn: 2190-5444
+    issue: 12
+    journal: Eur. Phys. J.  Plus
+    languages: 
+      - en
+    pages: 525
+    volume: 133
+    url: https://doi.org/10.1140/epjp/i2018-12366-5
+    authors: 
+      - family-names: Fiocco
+        given-names: Giacomo
+      - family-names: Rovetta
+        given-names: Tommaso
+      - family-names: Malagodi
+        given-names: Marco
+      - family-names: Licchelli
+        given-names: Maurizio
+      - family-names: Gulmini
+        given-names: Monica
+      - family-names: Lanzafame
+        given-names: Gabriele
+      - family-names: Zanini
+        given-names: Franco
+      - family-names: Lo Giudice
+        given-names: Alessandro
+      - family-names: Re
+        given-names: Alessandro
+    editors: 
+      - family-names: Fiocco
+        given-names: Giacomo
+      - family-names: Rovetta
+        given-names: Tommaso
+      - family-names: Malagodi
+        given-names: Marco
+      - family-names: Licchelli
+        given-names: Maurizio
+      - family-names: Gulmini
+        given-names: Monica
+      - family-names: Lanzafame
+        given-names: Gabriele
+      - family-names: Zanini
+        given-names: Franco
+      - family-names: Lo Giudice
+        given-names: Alessandro
+      - family-names: Re
+        given-names: Alessandro
+    recipients: 
+      - family-names: Fiocco
+        given-names: Giacomo
+      - family-names: Rovetta
+        given-names: Tommaso
+      - family-names: Malagodi
+        given-names: Marco
+      - family-names: Licchelli
+        given-names: Maurizio
+      - family-names: Gulmini
+        given-names: Monica
+      - family-names: Lanzafame
+        given-names: Gabriele
+      - family-names: Zanini
+        given-names: Franco
+      - family-names: Lo Giudice
+        given-names: Alessandro
+      - family-names: Re
+        given-names: Alessandro
+    translators: 
+      - family-names: Fiocco
+        given-names: Giacomo
+      - family-names: Rovetta
+        given-names: Tommaso
+      - family-names: Malagodi
+        given-names: Marco
+      - family-names: Licchelli
+        given-names: Maurizio
+      - family-names: Gulmini
+        given-names: Monica
+      - family-names: Lanzafame
+        given-names: Gabriele
+      - family-names: Zanini
+        given-names: Franco
+      - family-names: Lo Giudice
+        given-names: Alessandro
+      - family-names: Re
+        given-names: Alessandro
+    date-published: 2018-12-19
+    identifiers: 
+      - type: doi
+        value: 10.1140/epjp/i2018-12366-5
+  - title: >-
+      Influence of microstructure on the corrosion of archaeological iron observed using 3D synchrotron micro-tomography
+    abstract: |
+      A combination of X-ray analytical techniques has been used to study the microstructure and corrosion of a 450-year-old cast-iron cannonball fragment from the Mary Rose shipwreck. Using a 3D approach, it has been shown that akaganeite, β-FeO(OH, Cl), starts to appear ˜1.5 mm below the outer surface of the object, occurring selectively around non-contiguous graphite flakes in the microstructure, with no corrosion in graphite-free regions. This spatial analysis has given a new look inside a 450-year-old system, to see how metallographic features interact with local chemical environments to give complex corrosion products, centuries in the making.
+    type: journalArticle
+    database: ScienceDirect
+    date-accessed: 2020-02-02T13:18:31Z
+    issn: 0010-938X
+    journal: Corrosion Science
+    languages: 
+      - en
+    pages: 108132
+    volume: 159
+    url: http://www.sciencedirect.com/science/article/pii/S0010938X19302446
+    keywords: 
+      - Tomography
+      - Archaeology
+      - Cast iron
+      - Conservation
+      - Graphite
+    authors: 
+      - family-names: Simon
+        given-names: H. J.
+      - family-names: Cibin
+        given-names: G.
+      - family-names: Reinhard
+        given-names: C.
+      - family-names: Liu
+        given-names: Y.
+      - family-names: Schofield
+        given-names: E.
+      - family-names: Freestone
+        given-names: I. C.
+    editors: 
+      - family-names: Simon
+        given-names: H. J.
+      - family-names: Cibin
+        given-names: G.
+      - family-names: Reinhard
+        given-names: C.
+      - family-names: Liu
+        given-names: Y.
+      - family-names: Schofield
+        given-names: E.
+      - family-names: Freestone
+        given-names: I. C.
+    recipients: 
+      - family-names: Simon
+        given-names: H. J.
+      - family-names: Cibin
+        given-names: G.
+      - family-names: Reinhard
+        given-names: C.
+      - family-names: Liu
+        given-names: Y.
+      - family-names: Schofield
+        given-names: E.
+      - family-names: Freestone
+        given-names: I. C.
+    translators: 
+      - family-names: Simon
+        given-names: H. J.
+      - family-names: Cibin
+        given-names: G.
+      - family-names: Reinhard
+        given-names: C.
+      - family-names: Liu
+        given-names: Y.
+      - family-names: Schofield
+        given-names: E.
+      - family-names: Freestone
+        given-names: I. C.
+    date-published: 2019-10-01
+    identifiers: 
+      - type: doi
+        value: 10.1016/j.corsci.2019.108132
+  - title: >-
+      Beeswax as Dental Filling on a Neolithic Human Tooth
+    abstract: |
+      Evidence of prehistoric dentistry has been limited to a few cases, the most ancient dating back to the Neolithic. Here we report a 6500-year-old human mandible from Slovenia whose left canine crown bears the traces of a filling with beeswax. The use of different analytical techniques, including synchrotron radiation computed micro-tomography (micro-CT), Accelerator Mass Spectrometry (AMS) radiocarbon dating, Infrared (IR) Spectroscopy and Scanning Electron Microscopy (SEM), has shown that the exposed area of dentine resulting from occlusal wear and the upper part of a vertical crack affecting enamel and dentin tissues were filled with beeswax shortly before or after the individual’s death. If the filling was done when the person was still alive, the intervention was likely aimed to relieve tooth sensitivity derived from either exposed dentine and/or the pain resulting from chewing on a cracked tooth: this would provide the earliest known direct evidence of therapeutic-palliative dental filling.
+    type: journalArticle
+    database: PubMed Central
+    date-accessed: 2020-02-02T12:55:03Z
+    issn: 1932-6203
+    issue: 9
+    journal: PLoS One
+    volume: 7
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3446997/
+    authors: 
+      - family-names: Bernardini
+        given-names: Federico
+      - family-names: Tuniz
+        given-names: Claudio
+      - family-names: Coppa
+        given-names: Alfredo
+      - family-names: Mancini
+        given-names: Lucia
+      - family-names: Dreossi
+        given-names: Diego
+      - family-names: Eichert
+        given-names: Diane
+      - family-names: Turco
+        given-names: Gianluca
+      - family-names: Biasotto
+        given-names: Matteo
+      - family-names: Terrasi
+        given-names: Filippo
+      - family-names: De Cesare
+        given-names: Nicola
+      - family-names: Hua
+        given-names: Quan
+      - family-names: Levchenko
+        given-names: Vladimir
+    editors: 
+      - family-names: Bernardini
+        given-names: Federico
+      - family-names: Tuniz
+        given-names: Claudio
+      - family-names: Coppa
+        given-names: Alfredo
+      - family-names: Mancini
+        given-names: Lucia
+      - family-names: Dreossi
+        given-names: Diego
+      - family-names: Eichert
+        given-names: Diane
+      - family-names: Turco
+        given-names: Gianluca
+      - family-names: Biasotto
+        given-names: Matteo
+      - family-names: Terrasi
+        given-names: Filippo
+      - family-names: De Cesare
+        given-names: Nicola
+      - family-names: Hua
+        given-names: Quan
+      - family-names: Levchenko
+        given-names: Vladimir
+    recipients: 
+      - family-names: Bernardini
+        given-names: Federico
+      - family-names: Tuniz
+        given-names: Claudio
+      - family-names: Coppa
+        given-names: Alfredo
+      - family-names: Mancini
+        given-names: Lucia
+      - family-names: Dreossi
+        given-names: Diego
+      - family-names: Eichert
+        given-names: Diane
+      - family-names: Turco
+        given-names: Gianluca
+      - family-names: Biasotto
+        given-names: Matteo
+      - family-names: Terrasi
+        given-names: Filippo
+      - family-names: De Cesare
+        given-names: Nicola
+      - family-names: Hua
+        given-names: Quan
+      - family-names: Levchenko
+        given-names: Vladimir
+    translators: 
+      - family-names: Bernardini
+        given-names: Federico
+      - family-names: Tuniz
+        given-names: Claudio
+      - family-names: Coppa
+        given-names: Alfredo
+      - family-names: Mancini
+        given-names: Lucia
+      - family-names: Dreossi
+        given-names: Diego
+      - family-names: Eichert
+        given-names: Diane
+      - family-names: Turco
+        given-names: Gianluca
+      - family-names: Biasotto
+        given-names: Matteo
+      - family-names: Terrasi
+        given-names: Filippo
+      - family-names: De Cesare
+        given-names: Nicola
+      - family-names: Hua
+        given-names: Quan
+      - family-names: Levchenko
+        given-names: Vladimir
+    date-published: 2012-09-19
+    identifiers: 
+      - type: doi
+        value: 10.1371/journal.pone.0044904
+  - title: >-
+      Synchrotron radiation and laboratory micro X-ray computed tomography—useful tools for the material identification of prehistoric objects made of ivory, bone or antler
+    abstract: |
+      Archaeological bone, ivory and antler, as well as objects manufactured from them, are largely studied to extract as much information as possible from these materials. Among others, one key question in archaeology is the exact identification of the material. Even if the identification of different kinds of osseous material seems to be trivial in many cases, it can be a difficult issue when small, heavily carved and more or less altered ancient objects are concerned. This study was focused on the determination of parameters allowing the distinction of archaeological ivory, bone and antler in order to identify the raw material used for the manufacture of prehistoric objects. The high performance of synchrotron radiation (SR) and laboratory-based micro X-ray computed tomography (microCT), providing highly resolved three-dimensional information on the micromorphology, permitted the establishment of such distinctive features of modern references of ivory, antler, land mammal and whale bones: ivory shows characteristic tubular pores with a diameter of about 1 to 2 μm, bone and antler show typical osteon structures. In our measured references, antler shows on average larger and more elongated shaped pores of the osteons compared to terrestrial mammal bone. This feature however depends very much on the original localization of the studied sample within the antler. Whale bones can be distinguished from the other osseous materials by a cancellous, osteoporotic-like structure with irregularly distributed rounded porosities with diameters reaching up to 500 μm. These characteristics have also been tested on determined Palaeolithic fragments, as diagenetic changes during burial have to be considered and may lead to the modification of the parameters established on the basis of modern bone references. In general, the chemical composition of bone objects can change drastically over time while micromorphological features, as evidenced by microCT, seem to be less susceptible to such alterations. In addition, microCT enables the comparison of inner and possibly less altered parts of the objects, and can be considered as completely non-destructive for small mineralised prehistoric objects. In this study, specific morphological features allowing the distinction of ivory and of whale bone from other bone and antler material were determined, even for altered materials dating back to Palaeolithic periods. Thus, we provide, in addition to archaeozoological, chemical and isotopic markers, a new non-destructive tool to identify some raw materials used for the fabrication of osseous objects ranging from recent to prehistoric periods.
+    type: journalArticle
+    database: pubs.rsc.org
+    date-accessed: 2020-02-02T12:17:22Z
+    issn: 1364-5544
+    issue: 9
+    journal: J. Anal. At. Spectrom.
+    languages: 
+      - en
+    pages: 1802-1812
+    volume: 26
+    url: https://pubs.rsc.org/en/content/articlelanding/2011/ja/c0ja00246a
+    authors: 
+      - family-names: Reiche
+        given-names: I.
+      - family-names: Müller
+        given-names: K.
+      - family-names: Staude
+        given-names: A.
+      - family-names: Goebbels
+        given-names: J.
+      - family-names: Riesemeier
+        given-names: H.
+    editors: 
+      - family-names: Reiche
+        given-names: I.
+      - family-names: Müller
+        given-names: K.
+      - family-names: Staude
+        given-names: A.
+      - family-names: Goebbels
+        given-names: J.
+      - family-names: Riesemeier
+        given-names: H.
+    recipients: 
+      - family-names: Reiche
+        given-names: I.
+      - family-names: Müller
+        given-names: K.
+      - family-names: Staude
+        given-names: A.
+      - family-names: Goebbels
+        given-names: J.
+      - family-names: Riesemeier
+        given-names: H.
+    translators: 
+      - family-names: Reiche
+        given-names: I.
+      - family-names: Müller
+        given-names: K.
+      - family-names: Staude
+        given-names: A.
+      - family-names: Goebbels
+        given-names: J.
+      - family-names: Riesemeier
+        given-names: H.
+    date-published: 2011-09-01
+    identifiers: 
+      - type: doi
+        value: 10.1039/C0JA00246A
+  - title: >-
+      Rectangular Beads from the Final Gravettian Level of the Abri Pataud: Raw Material Identification and its Archaeological Implications
+    abstract: |
+      The Final Gravettian level (level 2) of the abri Pataud (Dordogne, France) yielded a large assemblage of body ornaments that consists essentially of 85 quite standardized rectangular beads. Some uncertainty remained about the raw material in which these small beads were made: mammoth ivory, reindeer antler or bone? Non-invasive methods were employed in order to determine the raw material. First chemical analyses using microbeam Proton Induced X-ray Emission analysis (microPIXE) did not enable us to conclude definitively. Therefore, synchrotron and laboratory X-ray microtomography (microCT) were applied on eight beads and allowed us to identify ivory for all of them except for one, which shows slightly different morphological features.
+    type: journalArticle
+    license: Article L.111-1 du Code de la propriété intellectuelle.
+    copyright: Article L.111-1 du Code de la propriété intellectuelle.
+    database: journals.openedition.org
+    date-accessed: 2020-02-02T10:50:49Z
+    issn: 1960-1360
+    issue: 35
+    languages: 
+      - en
+    pages: 259-271
+    url: http://journals.openedition.org/archeosciences/3297
+    authors: 
+      - family-names: Vercoutère
+        given-names: C.
+      - family-names: Müller
+        given-names: Katharina
+      - family-names: Chiotti
+        given-names: L.
+      - family-names: Nespoulet
+        given-names: R.
+      - family-names: Staude
+        given-names: A.
+      - family-names: Riesemeier
+        given-names: H.
+      - family-names: Reiche
+        given-names: I.
+    editors: 
+      - family-names: Vercoutère
+        given-names: C.
+      - family-names: Müller
+        given-names: Katharina
+      - family-names: Chiotti
+        given-names: L.
+      - family-names: Nespoulet
+        given-names: R.
+      - family-names: Staude
+        given-names: A.
+      - family-names: Riesemeier
+        given-names: H.
+      - family-names: Reiche
+        given-names: I.
+    recipients: 
+      - family-names: Vercoutère
+        given-names: C.
+      - family-names: Müller
+        given-names: Katharina
+      - family-names: Chiotti
+        given-names: L.
+      - family-names: Nespoulet
+        given-names: R.
+      - family-names: Staude
+        given-names: A.
+      - family-names: Riesemeier
+        given-names: H.
+      - family-names: Reiche
+        given-names: I.
+    translators: 
+      - family-names: Vercoutère
+        given-names: C.
+      - family-names: Müller
+        given-names: Katharina
+      - family-names: Chiotti
+        given-names: L.
+      - family-names: Nespoulet
+        given-names: R.
+      - family-names: Staude
+        given-names: A.
+      - family-names: Riesemeier
+        given-names: H.
+      - family-names: Reiche
+        given-names: I.
+    date-published: 2011-04-30
+    identifiers: 
+      - type: doi
+        value: 10.4000/archeosciences.3297
+  - title: >-
+      Un comportement funéraire original au Gravettien final. Bilan des analyses et études 2005–2011 de la couche 2 de l’abri Pataud (Les Eyzies-de-Tayac, Dordogne, France)
+    type: conferencePaper
+    collection-title: Les arts de la Préhistoire: micro-analyses, mises en contexte et conservation, actes du colloque MADAPCA
+    pages: 16–18
+    authors: 
+      - family-names: Chiotti
+        given-names: Laurent
+      - family-names: Nespoulet
+        given-names: Roland
+      - family-names: Henry-Gambier
+        given-names: Dominique
+      - family-names: Vercoutère
+        given-names: Carole
+      - family-names: Crépin
+        given-names: Laurent
+      - family-names: Lebon
+        given-names: Matthieu
+      - family-names: Beck
+        given-names: Lucile
+      - family-names: Müller
+        given-names: Katharina
+      - family-names: Reiche
+        given-names: Ina
+    editors: 
+      - family-names: Chiotti
+        given-names: Laurent
+      - family-names: Nespoulet
+        given-names: Roland
+      - family-names: Henry-Gambier
+        given-names: Dominique
+      - family-names: Vercoutère
+        given-names: Carole
+      - family-names: Crépin
+        given-names: Laurent
+      - family-names: Lebon
+        given-names: Matthieu
+      - family-names: Beck
+        given-names: Lucile
+      - family-names: Müller
+        given-names: Katharina
+      - family-names: Reiche
+        given-names: Ina
+    recipients: 
+      - family-names: Chiotti
+        given-names: Laurent
+      - family-names: Nespoulet
+        given-names: Roland
+      - family-names: Henry-Gambier
+        given-names: Dominique
+      - family-names: Vercoutère
+        given-names: Carole
+      - family-names: Crépin
+        given-names: Laurent
+      - family-names: Lebon
+        given-names: Matthieu
+      - family-names: Beck
+        given-names: Lucile
+      - family-names: Müller
+        given-names: Katharina
+      - family-names: Reiche
+        given-names: Ina
+    translators: 
+      - family-names: Chiotti
+        given-names: Laurent
+      - family-names: Nespoulet
+        given-names: Roland
+      - family-names: Henry-Gambier
+        given-names: Dominique
+      - family-names: Vercoutère
+        given-names: Carole
+      - family-names: Crépin
+        given-names: Laurent
+      - family-names: Lebon
+        given-names: Matthieu
+      - family-names: Beck
+        given-names: Lucile
+      - family-names: Müller
+        given-names: Katharina
+      - family-names: Reiche
+        given-names: Ina
+    date-published: 2011
+  - title: >-
+      Absorption edge sensitive radiography and tomography of Egyptian Papyri
+    abstract: |
+      In the Egyptian Museum and Papyrus Collection, Berlin, a multitude of papyrus manuscripts are stored. Papyri found on Elephantine island are of special interest. No other settlement in Egypt has been so well documented through texts over four millennia. However, 80% of the Elephantine texts are yet to be documented and published. As part of the “Elephantine” project, funded by an ERC starting grant, we attempt to gain access to hidden text. Most of the fragments are very fragile, deformed, with some rolled or folded. Papyri from the Old and Middle Kingdom were typically written with carbon ink. Consequently, these fragments show no absorption sensitivity for hard X-rays. Also, other inks have been used in those times. If small traces of high-Z elements, like Fe or Pb, are found, absorption may be sensitive enough for radiography and tomography to distinguish between writing and base material. We sorted out suitable fragments and papyrus packages by X-ray fluorescence mapping. When promising high-Z elements were detected, absorption tomography was applied using micro-CT laboratory systems or synchrotron X-rays at the BAMline at BESSY II. The sensitivity can be enhanced by element-sensitive absorption edge imaging, where transmission data taken above and below the edge are compared. This technique was applied at the absorption edges of the elements known to be used as ink and pigment material – Iron, Antimony and Lead. These X-ray results were complemented by Fourier-transform infrared spectroscopy (FT-IR) measurements showing that the lead is found in the form of lead carboxylate. In the future, the presented methodology will be applied to folded or rolled papyri, allowing for analysis of the text without manually opening the fragments.
+    type: journalArticle
+    database: ScienceDirect
+    date-accessed: 2019-12-11T07:44:32Z
+    issn: 1296-2074
+    journal: Journal of Cultural Heritage
+    languages: 
+      - en
+    pages: 13-20
+    volume: 39
+    url: http://www.sciencedirect.com/science/article/pii/S1296207418307519
+    keywords: 
+      - X-ray
+      - Elephantine papyri
+      - FT-IR
+      - Lead carboxylate
+      - Non-destructive
+      - Synchrotron absorption edge radiography
+    authors: 
+      - family-names: Arlt
+        given-names: Tobias
+      - family-names: Mahnke
+        given-names: Heinz-Eberhard
+      - family-names: Siopi
+        given-names: Tzulia
+      - family-names: Menei
+        given-names: Eve
+      - family-names: Aibéo
+        given-names: Cristina
+      - family-names: Pausewein
+        given-names: Regine-Ricarda
+      - family-names: Reiche
+        given-names: Ina
+      - family-names: Manke
+        given-names: Ingo
+      - family-names: Lepper
+        given-names: Verena
+    editors: 
+      - family-names: Arlt
+        given-names: Tobias
+      - family-names: Mahnke
+        given-names: Heinz-Eberhard
+      - family-names: Siopi
+        given-names: Tzulia
+      - family-names: Menei
+        given-names: Eve
+      - family-names: Aibéo
+        given-names: Cristina
+      - family-names: Pausewein
+        given-names: Regine-Ricarda
+      - family-names: Reiche
+        given-names: Ina
+      - family-names: Manke
+        given-names: Ingo
+      - family-names: Lepper
+        given-names: Verena
+    recipients: 
+      - family-names: Arlt
+        given-names: Tobias
+      - family-names: Mahnke
+        given-names: Heinz-Eberhard
+      - family-names: Siopi
+        given-names: Tzulia
+      - family-names: Menei
+        given-names: Eve
+      - family-names: Aibéo
+        given-names: Cristina
+      - family-names: Pausewein
+        given-names: Regine-Ricarda
+      - family-names: Reiche
+        given-names: Ina
+      - family-names: Manke
+        given-names: Ingo
+      - family-names: Lepper
+        given-names: Verena
+    translators: 
+      - family-names: Arlt
+        given-names: Tobias
+      - family-names: Mahnke
+        given-names: Heinz-Eberhard
+      - family-names: Siopi
+        given-names: Tzulia
+      - family-names: Menei
+        given-names: Eve
+      - family-names: Aibéo
+        given-names: Cristina
+      - family-names: Pausewein
+        given-names: Regine-Ricarda
+      - family-names: Reiche
+        given-names: Ina
+      - family-names: Manke
+        given-names: Ingo
+      - family-names: Lepper
+        given-names: Verena
+    date-published: 2019-09-01
+    identifiers: 
+      - type: doi
+        value: 10.1016/j.culher.2019.04.007
+  - title: >-
+      Particle Accelerator to Help Read Dead Sea Scrolls Too Fragile to Unroll
+    abstract: |
+      WATCH: How oldest Torah scroll found in a synagogue was read despite being burned to a crisp ■ Now manuscripts from the Second Temple Period that are too brittle to even touch may be deciphered using cutting-edge physics
+    type: newspaperArticle
+    database: Haaretz
+    date-accessed: 2020-05-12T09:16:53Z
+    languages: 
+      - en
+    url: https://www.haaretz.com/archaeology/.premium.MAGAZINE-particle-accelerator-to-help-read-dead-sea-scrolls-too-fragile-to-unroll-1.8821595
+    keywords: 
+      - Israel
+      - Archaeology
+      - Ancient
+      - Christian
+      - Dead Sea
+      - Dead Sea scrolls
+      - discovery
+      - Israel archaeology
+      - Jewish
+      - Middle East
+      - Muslim
+      - news
+      - Religion
+    authors: 
+      - family-names: David
+        given-names: Ariel
+    editors: 
+      - family-names: David
+        given-names: Ariel
+    recipients: 
+      - family-names: David
+        given-names: Ariel
+    translators: 
+      - family-names: David
+        given-names: Ariel
+    date-published: 2020-05-05
+  - title: >-
+      The art of imaging methods—using cutting edge radiological technology to uncover the secrets of ancient anatomical figurines
+    abstract: |
+      Ivory anatomical figurines are thought to have been carved in Germany in the seventeenth or eighteenth century. While it is speculated that these figurines were used for the study of medical education, little is known about their origins. A precise understanding of the composition of these figurines may further provide knowledge about their purpose and exact age. Our institution holds the largest North American collection of these figurines. Our purpose was to utilize micro-computer tomography (micro-CT) to determine the composition of these figurines and discern whether these figurines are made of “true” ivory (e.g., elephant or mammoth tusk) or other ivory-like materials (e.g., whale bone and antler). Scans of 22 figurines were performed on an XT H 225 ST Nikon Micro-CT (mCT) scanner at 150–200 kV, with an average exposure time of 267 ms, and slice thickness of 40–80 μm. Axial micro-CT slices were evaluated for Haversian canal structure/morphology to determine material composition. micro-CT images were also evaluated for materials other than ivory or bone that were not appreciable by visual inspection. Out of 22 figurines, 20 were made of ivory, one was made of antler, and one contained both ivory and whale bone. Metallic components and/or fibers were found in a minority of figurines. Twelve figurines contained hinges or internal repairs. micro-CT can be used to discern the composition of fragile archeological figurines and assess for repairs or alterations. This information may enable archeologists to draw conclusions regarding objects’ age, origins, and possible uses.
+    type: journalArticle
+    database: Springer Link
+    date-accessed: 2024-08-28T13:14:25Z
+    issn: 1866-9565
+    issue: 5
+    journal: Archaeol Anthropol Sci
+    languages: 
+      - en
+    pages: 80
+    volume: 13
+    url: https://doi.org/10.1007/s12520-021-01312-5
+    keywords: 
+      - X-ray microtomography
+      - Medical Imaging
+      - Anatomy/history
+      - Diagnostic imaging
+      - Education
+      - Manikins
+      - medical/history
+    authors: 
+      - family-names: Schwartz
+        given-names: Fides Regina
+      - family-names: Churchill
+        given-names: Susan
+      - family-names: Ingold
+        given-names: Rachel
+      - family-names: Goknur
+        given-names: Sinan
+      - family-names: Gupta
+        given-names: Divakar
+      - family-names: Gladman
+        given-names: Justin
+      - family-names: Olson
+        given-names: Mark
+      - family-names: Tailor
+        given-names: Tina D.
+    editors: 
+      - family-names: Schwartz
+        given-names: Fides Regina
+      - family-names: Churchill
+        given-names: Susan
+      - family-names: Ingold
+        given-names: Rachel
+      - family-names: Goknur
+        given-names: Sinan
+      - family-names: Gupta
+        given-names: Divakar
+      - family-names: Gladman
+        given-names: Justin
+      - family-names: Olson
+        given-names: Mark
+      - family-names: Tailor
+        given-names: Tina D.
+    recipients: 
+      - family-names: Schwartz
+        given-names: Fides Regina
+      - family-names: Churchill
+        given-names: Susan
+      - family-names: Ingold
+        given-names: Rachel
+      - family-names: Goknur
+        given-names: Sinan
+      - family-names: Gupta
+        given-names: Divakar
+      - family-names: Gladman
+        given-names: Justin
+      - family-names: Olson
+        given-names: Mark
+      - family-names: Tailor
+        given-names: Tina D.
+    translators: 
+      - family-names: Schwartz
+        given-names: Fides Regina
+      - family-names: Churchill
+        given-names: Susan
+      - family-names: Ingold
+        given-names: Rachel
+      - family-names: Goknur
+        given-names: Sinan
+      - family-names: Gupta
+        given-names: Divakar
+      - family-names: Gladman
+        given-names: Justin
+      - family-names: Olson
+        given-names: Mark
+      - family-names: Tailor
+        given-names: Tina D.
+    date-published: 2021-04-13
+    identifiers: 
+      - type: doi
+        value: 10.1007/s12520-021-01312-5
