@@ -2,9 +2,7 @@
 # 16.04.2025 - SESAME SUNSTONE Training Programme - First Edition
 ## Make the best of your Synchrotron Tomography Experiment - 3D Image Analysis Crash Course
 
-
-[![DOI](https://zenodo.org/badge/796287736.svg)](https://doi.org/10.5281/zenodo.14592120)
-
+[![DOI](https://zenodo.org/badge/962678314.svg)](https://doi.org/10.5281/zenodo.15189409)
 
 | Speaker |
 | :--- |
