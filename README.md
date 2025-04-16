@@ -8,7 +8,7 @@
 | :--- |
 | **Dr.-Ing. Gianluca Iori** |
 | Research Assistant in Advanced X-ray Imaging, Institute for Biomedical Engineering, ETH Zurich, Switzerland |
-| BEATS beamline scientist, Synchrotron-light for Experimental Science and Applications in the Middle East - SESAME, Jordan |
+| ID10-BEATS visiting scientist, Synchrotron-light for Experimental Science and Applications in the Middle East - SESAME, Jordan |
 
 ## Contents
 1. [Introduction to 3D image processing software](#part-1-introduction-to-3d-image-processing-software)
@@ -70,8 +70,7 @@ Contents:
 
 ---
 ### Part 3: Image processing with Dragonfly
-#### Load and display 3D data
-- Load images
+#### Display controls
 - Window leveling controls
 - 2D views orientation
 - 3D view settings and window leveling
@@ -81,7 +80,6 @@ Contents:
 
 #### Stitching of 3D images
 - Load 2 image stacks
-- Crop
 - Move dataset
 - 3D stitch
 
